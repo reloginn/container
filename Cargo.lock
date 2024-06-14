@@ -12,6 +12,9 @@ dependencies = [
 [[package]]
 name = "raw"
 version = "0.1.0"
+dependencies = [
+ "sys",
+]
 
 [[package]]
 name = "sys"
